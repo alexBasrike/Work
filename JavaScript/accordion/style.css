@@ -1,0 +1,7 @@
+.accordion__item[data-accordion-item="close"] .accordion__content {
+    display: none;
+}
+
+.accordion__header {
+    cursor: pointer;
+}
